@@ -31,8 +31,6 @@ There are three endpoints that are reasonable for the demo:
 ```
 ## Configurando a IDE
 
-For the usage inside an IDE do the following:
-
 1. Certifique-se de ter um eclipse com m2e instalado
 
 2. Importe o projeto no eclipse *File > Import > Existing Maven Project…*

@@ -13,8 +13,6 @@ import javax.persistence.Id;
 import javax.persistence.OneToMany;
 import javax.persistence.SequenceGenerator;
 
-
-
 @Entity
 public class Country implements Serializable {
 
@@ -118,5 +116,6 @@ public class Country implements Serializable {
 		return "Country [countryId=" + countryId + ", country=" + country + ", lastUpdate=" + lastUpdate + "]";
 	}
 
-
+	
+	
 }
